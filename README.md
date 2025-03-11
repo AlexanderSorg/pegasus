@@ -14,6 +14,10 @@ UN data available at: Voeten, Erik; Strezhnev, Anton; Bailey, Michael, 2009, "Un
 
 *IdealpointestimatesAll_Jun2024.csv* is the UN ideal point data.
 
+## Graphs
+
+*israel_ideal_alignment.jpeg* and *israel_vote_agreement.jpeg* show results of the visualization respectively.
+
 
 
 
